@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <div>
 
         Type Conversion:
 
@@ -35,9 +26,3 @@
         input() function always returns the user's input as a string. If you need the input in a different data type, like an integer or a float, you should perform explicit type conversion after using input().
         It stops the flow of the program until the user input the details.
         
-        
-        
-
-    </div>
-</body>
-</html>

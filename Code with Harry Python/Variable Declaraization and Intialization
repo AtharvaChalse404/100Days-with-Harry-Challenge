@@ -1,0 +1,17 @@
+x = 20 
+print(x,type(x))
+name = "john"
+print(name,type(name))
+pi = 3.14159
+print(pi,type(pi))
+booll = True
+print(booll,type(booll))
+print(x,name,pi,booll)
+a,b,c =5, "Bob", 2.5
+print('a:',a)
+print('b:',b)
+print('c:',c)
+x=y=z=100
+print(x)
+print(y)
+print(z)
