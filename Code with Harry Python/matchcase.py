@@ -10,5 +10,7 @@ match x:
         print("eight")    
         
         #this Means Default Value Smjla ka 
+        # Hi Fakt Tevha Run Hoil Jevha Baki Saglya Case Statements Match Nahi Honar Jar Match Zhalya tar Tyacha Code Block Print Hoil
+        # Match nahi zhali case Tar Defualt  Wala Run Hoil
     case _x:
         print(x)
