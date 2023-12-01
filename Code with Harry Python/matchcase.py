@@ -8,3 +8,7 @@ match x:
         print("four")
     case 8:
         print("eight")    
+        
+        #this Means Default Value Smjla ka 
+    case _x:
+        print(x)
