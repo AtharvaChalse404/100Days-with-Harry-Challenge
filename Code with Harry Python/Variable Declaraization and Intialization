@@ -15,3 +15,9 @@ x=y=z=100
 print(x)
 print(y)
 print(z)
+
+add =  (int(x)) +(int(y)) 
+
+
+print(add)
+
