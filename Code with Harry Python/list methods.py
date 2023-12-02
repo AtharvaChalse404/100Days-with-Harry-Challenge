@@ -16,8 +16,26 @@ print(l)
 
 
 
-l.insert(1,899)
+# l.insert(1,899)
+# print(l)
+
+
+
+
+m = [ 900 , 1000 , 1100]
+k = l + m 
+# l.extend(m)
+print(k)
 print(l)
+
+
+
+
+
+
+
+
+
 
 
 
