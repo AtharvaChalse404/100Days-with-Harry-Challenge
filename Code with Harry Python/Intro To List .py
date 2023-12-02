@@ -5,16 +5,16 @@
 # for m in l:
 #     print(m)
 
-print()
-list = [1,2,3,4,5,6,7,8,9]
+# print()
+# list = [1,2,3,4,5,6,7,8,9]
 
-# for i in list:
+# # for i in list:
 #     print(i)
     
-print(list[2])
+# print(list[2])
 
 
-marks = [ 3,5,6,"Atharva", True , 6 , 7 ]
+# marks = [ 3,5,6,"Atharva", True , 6 , 7 ]
 # print(marks)
 # print(type(marks))
 # print(marks[0])
@@ -40,4 +40,14 @@ marks = [ 3,5,6,"Atharva", True , 6 , 7 ]
 # if "array " in "Atharva":
 #     print("yes")
 
-print(marks[1:8:3])
+# print(marks[1:8:3])
+
+# print(marks[:])
+# print(marks[1:])
+
+#List Comprehension Bilkul nahi smjha
+
+lst = [ i*i for i in range(10)]
+print([lst])
+lst = [ i*i for i in range(10) if i%2 == 0]
+print(lst)
