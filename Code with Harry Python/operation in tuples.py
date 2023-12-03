@@ -1,6 +1,10 @@
-T = (1,2,3,4,5,6)
+countries = ("Spain","Italy","India", "England","Germany")
 
-M = t == M
+temp = list(countries)
+temp.append("Russia")
+temp.pop(3)
+temp[2] = "Finland"
+countries = tuple(temp)
+print(countries)
 
-for i in M:
-    print(i)    
+
