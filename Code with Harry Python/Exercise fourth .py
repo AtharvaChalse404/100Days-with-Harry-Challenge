@@ -1,9 +1,13 @@
-a = input("Normal English: ")
-x = list(a)
-while len(x) < 4:
-    m = input('random: ')
-    x.append(input(m))
+
+word ='Harry Is Good'
+coding = True
+if(coding):
+    for word in words:
+   if (len(word)>=3):
+       r1 = 'dsf'
+       r2 = 'jkr'
     
-    x.reverse()
-    print(x)
-    
+       stnew = r1 + word[1:]+word[0] +r2
+       print(word)
+else:
+    pass
