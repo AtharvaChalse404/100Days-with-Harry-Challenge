@@ -21,3 +21,5 @@ def appl(fx,value):
 print(appl(cube,2))
 
 print(appl(lambda x:x*x*x,2))
+
+print(appl(lambda x:x*x,2))
