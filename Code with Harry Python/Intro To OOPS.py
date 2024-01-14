@@ -9,3 +9,10 @@
 
 
 # Oops is way To Maintain And Give More Readability To your Code 
+
+
+# in Oops we create Class
+# Class is a Form of BluePrint
+
+# Object is an Entity
+
