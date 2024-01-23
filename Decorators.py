@@ -14,3 +14,5 @@ def add (a,b):
     print(a+b)
     
 hello()
+
+# greet(hello)()
