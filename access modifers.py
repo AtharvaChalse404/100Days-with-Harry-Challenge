@@ -1,5 +1,5 @@
-
-# Public , Private , Encrypted Access Modifiers
+# This Is For OOPS ON GLOBAL NOT ONLY PYTHON , PYTHON DOESNT ENFORCE IT 
+# Public , Private , Encrypted/Protected Access Modifiers
 # all Variables are by Default Public
 
 class employee:
