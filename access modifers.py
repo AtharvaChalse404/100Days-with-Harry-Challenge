@@ -16,3 +16,6 @@ a = employee()
 print(a._employee__name) # can be accessed Indirectly
 
 
+
+print(a.__dir__())
+
